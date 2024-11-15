@@ -75,9 +75,7 @@ endmodule
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-
-![Uploading WhatsApp Image 2024-11-12 at 11.32.04_317500a9.jpg…]()
-
+![image](https://github.com/user-attachments/assets/ff4f17b4-b589-4439-b955-d44b8b281ed6)
 
 
 
